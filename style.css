@@ -248,7 +248,7 @@ section{
         align-items: center;
     }
 }
-@media (max-width:641px){
+@media (max-width:768px){
     body{
         font-size: 12px;
     }
